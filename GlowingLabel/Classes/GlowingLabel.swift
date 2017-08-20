@@ -8,7 +8,7 @@
 import UIKit
 import QuartzCore
 
-@IBDesignable
+//@IBDesignable
 class GlowingLabel: UILabel {
 
 	@IBInspectable
