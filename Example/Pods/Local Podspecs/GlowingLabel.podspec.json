@@ -1,9 +1,9 @@
 {
   "name": "GlowingLabel",
   "version": "0.1.0",
-  "summary": "A short description of GlowingLabel.",
+  "summary": "A label with an outer glow.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Chanchal Raj/GlowingLabel",
+  "homepage": "https://github.com/RajChanchal/GlowingLabel",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,9 +12,10 @@
     "Chanchal Raj": "rajchanchalkhatri@gmail.com"
   },
   "source": {
-    "git": "https://github.com/Chanchal Raj/GlowingLabel.git",
+    "git": "https://github.com/RajChanchal/GlowingLabel.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "https://twitter.com/ChanchalRaj7",
   "platforms": {
     "ios": "8.0"
   },
