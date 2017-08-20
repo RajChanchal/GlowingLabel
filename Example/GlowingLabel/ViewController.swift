@@ -10,10 +10,8 @@ import UIKit
 import GlowingLabel
 class ViewController: UIViewController {
 
-    @IBOutlet var lblGlowingLabel: GlowingLabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        
     }
 
     override func didReceiveMemoryWarning() {

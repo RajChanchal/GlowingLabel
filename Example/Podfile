@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'GlowingLabel_Example' do
-  pod 'GlowingLabel', :path => '../'
+    pod 'GlowingLabel', :path => '../'
 
   target 'GlowingLabel_Tests' do
     inherit! :search_paths

@@ -9,8 +9,10 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+![](GlowingLabel.png?raw=true "Glowing Label screenshot")
 
+## Requirements
+iOS 8.0
 ## Installation
 
 GlowingLabel is available through [CocoaPods](http://cocoapods.org). To install
