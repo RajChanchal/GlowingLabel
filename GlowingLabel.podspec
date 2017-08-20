@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'GlowingLabel'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of GlowingLabel.'
+  s.summary          = 'A label with an outer glow.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -26,7 +26,7 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Chanchal Raj' => 'rajchanchalkhatri@gmail.com' }
   s.source           = { :git => 'https://github.com/Chanchal Raj/GlowingLabel.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://twitter.com/ChanchalRaj7'
 
   s.ios.deployment_target = '8.0'
 

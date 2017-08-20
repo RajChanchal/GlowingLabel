@@ -1,0 +1,6 @@
+framework module GlowingLabel {
+  umbrella header "GlowingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

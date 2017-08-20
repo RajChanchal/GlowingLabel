@@ -1,0 +1,16 @@
+PODS:
+  - GlowingLabel (0.1.0)
+
+DEPENDENCIES:
+  - GlowingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  GlowingLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GlowingLabel: 57c101deb4e4902a008e00ab5132e1d77cdc505f
+
+PODFILE CHECKSUM: efbf9bbeec68829963934a2b3bd6ed417fc9506d
+
+COCOAPODS: 1.2.0
